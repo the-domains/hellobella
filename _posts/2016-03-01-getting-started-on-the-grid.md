@@ -1,33 +1,33 @@
 ---
-title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
-author: []
-datePublished: '2016-03-01T09:44:29.008Z'
-dateModified: '2015-12-06T04:53:05.695Z'
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
+description: Google stuff I have worked on or designed
+datePublished: '2016-05-31T10:40:38.943Z'
+dateModified: '2016-03-01T09:56:16.189Z'
+title: My Loop App Concept
+author: []
+sourcePath: _posts/2016-03-01-getting-started-on-the-grid.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-01-getting-started-on-the-grid.md
-published: true
+url: my-loop-app-concept/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Getting Started on The Grid
+# My Loop App Concept
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65ff235a-ed89-4e5d-afa2-c8e98cfbd988.jpg)
 
 Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
 
-## Creating a Site
+## [Creating a Site][0]
 
 From your drafts dashboard, click the "Drafts" dropdown menu to reveal the site switcher. Select "Add a Site" to begin the site creation process.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif)
@@ -144,3 +144,5 @@ We want to hear your feedback! (It is Beta, after all.) So if you find a bug, so
 * Send us a message via the "Help" link.
 * Email us at feedback@thegrid.io
 * Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!
+
+[0]: null
